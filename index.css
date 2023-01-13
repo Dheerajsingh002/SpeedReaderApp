@@ -1,0 +1,27 @@
+#page1{
+    background: url('https://images.pexels.com/photos/268533/pexels-photo-268533.jpeg?cs=srgb&dl=pexels-pixabay-268533.jpg&fm=jpg')center center;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    color: white;
+    text-align: center;
+    font-family: Lobster,serif;
+}
+#error{
+    background-color: rgb(198, 57, 5);
+    width: 50%;
+    margin: 20px auto;
+    font-size: 20px;
+}
+#result{
+    font-size: 50px;
+    background-color: rgba(255, 255, 255, 0.2);
+    padding: 5% 0;
+}
+/* Hide the number input */
+.full-width-slider input {
+    display: none;
+    }
+    .full-width-slider .ui-slider-track {
+        margin-left: 15px;
+        }
+   
